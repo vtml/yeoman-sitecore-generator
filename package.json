@@ -16,6 +16,6 @@
   "dependencies": {
     "gulp-rename": "1.2.2",
     "uuid": "^3.3.2",
-    "yeoman-generator": "^1.0.0"
+    "yeoman-generator": "^5.9.0"
   }
 }
